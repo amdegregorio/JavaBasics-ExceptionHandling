@@ -3,17 +3,17 @@ Example Code for Java Basics - Exception Handling blog post.
 
 Each class is a main class and can be run on it's own.
 
-##TryCatchExample
+## TryCatchExample
 Contains example code for the try-catch statement
 
-##ThrowsExample
+## ThrowsExample
 Contains example code for throwing exceptions
 
-##RuntimeExceptionExample
+## RuntimeExceptionExample
 Contains example run time exception
 
-##FinallyExample
+## FinallyExample
 Contains example code for finally blocks
 
-##TryWithResourcesExample
+## TryWithResourcesExample
 Contains example code for try-with-resources statements
